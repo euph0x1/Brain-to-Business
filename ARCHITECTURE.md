@@ -1,4 +1,4 @@
-  # Brain-to-Business: System Architecture
+    # Brain-to-Business: System Architecture
 
 Brain-to-Business is an AI agent that turns a raw thought into a structured startup brief:
 a clarified idea, real competitors, target customers, revenue models, a scored evaluation,

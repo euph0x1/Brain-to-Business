@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.pyc
+ideas.db
+reports/*.md
+.pytest_cache/
