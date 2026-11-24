@@ -7,6 +7,7 @@ models, a scored evaluation, and a week-by-week MVP roadmap.
 Runs on the **free Gemini API tier** (no credit card). Competitor research uses free DuckDuckGo
 search (no key).
 
+
 ## Quick start (VS Code)
 
 1. Install Python 3.11+ and the VS Code **Python** extension. Open this folder in VS Code.
